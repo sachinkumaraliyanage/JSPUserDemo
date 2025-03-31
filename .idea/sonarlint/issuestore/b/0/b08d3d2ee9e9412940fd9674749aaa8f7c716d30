@@ -1,0 +1,14 @@
+
+d
+java:S2095)"GUse try-with-resources or close this "CSVReader" in a "finally" clause.(’Χφ8¥³‚θή2
+i
+java:S2095P"GUse try-with-resources or close this "CSVWriter" in a "finally" clause.(υΆ™όÿÿÿÿ8¥³‚θή2
+C
+java:S1170"!Make this final field static too.(Θ›ψÿÿÿÿ8¦³‚θή2
+]	java:S125"<This block of commented-out lines of code should be removed.(Μ³—‡ϋÿÿÿÿ8©³‚θή2
+S
+java:S2696'"6Make the enclosing method "static" or remove this set.(“Ρ†8ª³‚θή2
+`
+java:S11550">Use isEmpty() to check whether the collection is empty or not.(ΒΑΔωÿÿÿÿ8¬³‚θή2
+F
+java:S1128")Remove this unused import 'java.io.File'.(†Π¥Ε8―³‚θή2
